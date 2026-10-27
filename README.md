@@ -93,6 +93,7 @@ Speeding up the reading of student work while the grade stays with the teacher.
 - **[Mote](https://www.mote.com/)** — Voice comments on student work, transcribed, which say more in less marking time. `Freemium` `Web` `Browser Extension`
 - **[Quill](https://www.quill.org/)** — Free writing practice that returns targeted revision on one sentence at a time. `Free` `Web`
 - **[Writable](https://www.writable.com/)** — Runs a draft-and-revise cycle where the feedback arrives between drafts rather than at the end. `Paid` `Web`
+- **[桃李AI](https://taoliapp.com/)** — Drafts personalized end-of-term student comments from an Excel roster and trait tags that a teacher then edits. `Freemium` `Web`
 
 ## Classroom activities
 
